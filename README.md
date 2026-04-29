@@ -34,9 +34,7 @@ This reframes GANs as a **self-supervised pretraining method**.
 
 ### Training Pipeline
 
-<p align="center" style="background-color:white; padding:10px;">
-  <img src="figs/pipeline.png" width="700"/>
-</p>
+![GANs Pipeline](figs/pipeline.png)
 
 ### Architectures
 
