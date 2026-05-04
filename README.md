@@ -1,8 +1,8 @@
-# Assessing GANs as a Self-Supervised Learning Technique for Time-Series
+# How effective are GANs for Time Series Representation Learning?
 
 This repository contains the implementation and experimental analysis presented in the paper:
 
-**"Assessing GANs’ Effectiveness for Time Series Representation Learning"**
+**"How effective are GANs for Time Series Representation Learning?"**
 
 ---
 
@@ -163,7 +163,7 @@ If you use this work:
 
 ```bibtex
 @article{gan_ssl_timeseries,
-  title={Assessing GANs’ effectiveness for Time Series Representation Learning},
+  title={How effective are GANs for Time Series Representation Learning?},
   author={},
   year={2026}
 }
